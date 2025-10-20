@@ -1,0 +1,23 @@
+{
+  "name": "playwright-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshiniGarusinghe/Playwright-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AshiniGarusinghe/Playwright-Practice/issues"
+  },
+  "homepage": "https://github.com/AshiniGarusinghe/Playwright-Practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1"
+  }
+}
